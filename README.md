@@ -60,5 +60,6 @@ This project uses:
    git clone https://github.com/AhmmedAliMunshiRakib/HR-ANALYTICS-DASHBOARD-Using-Power-BI.git
 
   ## Dashboard
-  ![HR DASHBOARD](https://github.com/user-attachments/assets/c5f830c2-2df9-47cf-b700-b8b67dc64853)
+
+![HR DASHBOARD](https://github.com/user-attachments/assets/2ddad8af-38f5-4043-83aa-52f9c8ab5522)
 
